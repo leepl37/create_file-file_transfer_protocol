@@ -1,0 +1,14 @@
+2021-10-06 01:09:56 UTC - INFO:Starting 8 workers
+2021-10-06 01:09:56 UTC - INFO:Starting "actix-web-service-0.0.0.0:8081" service on 0.0.0.0:8081
+2021-10-06 01:10:01 UTC - INFO:Starting 8 workers
+2021-10-06 01:10:01 UTC - INFO:Starting "actix-web-service-0.0.0.0:8081" service on 0.0.0.0:8081
+2021-10-06 01:11:52 UTC - INFO:SIGINT received, exiting
+2021-10-06 01:13:35 UTC - INFO:Starting 8 workers
+2021-10-06 01:13:35 UTC - INFO:Starting "actix-web-service-0.0.0.0:8081" service on 0.0.0.0:8081
+2021-10-06 01:14:59 UTC - INFO:SIGINT received, exiting
+2021-10-06 01:17:08 UTC - INFO:Starting 8 workers
+2021-10-06 01:17:08 UTC - INFO:Starting "actix-web-service-0.0.0.0:8081" service on 0.0.0.0:8081
+2021-10-06 01:25:34 UTC - INFO:SIGINT received, exiting
+2021-10-06 01:29:03 UTC - INFO:Starting 8 workers
+2021-10-06 01:29:03 UTC - INFO:Starting "actix-web-service-0.0.0.0:8081" service on 0.0.0.0:8081
+2021-10-06 01:36:17 UTC - INFO:SIGINT received, exiting
