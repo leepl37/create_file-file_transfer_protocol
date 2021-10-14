@@ -18,12 +18,12 @@ pub fn scan_port(host: &str, port: u16) -> Result<FtpStream, bool> {
             }, // everything good
             Err(_) => {
                 println!("접속이 불가능 합니다.");
-            }, // we have been released, don't panic
+            }, // connection Error
         }
     });
 
     thread::sleep(std::time::Duration::new(5, 0));
-
+        // 타입아웃 
     println!("쓰레드 타임아웃");
     match receiver.try_recv() {
         Ok(Ok(handle)) =>{
